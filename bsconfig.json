@@ -1,5 +1,5 @@
 {
-  "name": "reshowcase",
+  "name": "@lozlow/reshowcase",
   "reason": {
     "react-jsx": 3
   },
@@ -21,7 +21,7 @@
     "commonjs"
   ],
   "suffix": ".bs.js",
-  "namespace": true,
+  "namespace": "reshowcase",
   "bs-dependencies": ["@rescript/react"],
   "warnings": {
     "number": "+A-4-9-20-102",

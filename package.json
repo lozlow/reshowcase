@@ -1,5 +1,5 @@
 {
-  "name": "reshowcase",
+  "name": "@lozlow/reshowcase",
   "version": "5.1.0",
   "bin": {
     "reshowcase": "./commands/reshowcase"
@@ -31,5 +31,8 @@
     "concurrently": "^6.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }
